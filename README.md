@@ -1,5 +1,5 @@
 # BLENDED_LEARNING
-#  EX-06 Implementation of Logistic Regression Model for Classifying Food Choices for Diabetic Patients
+#  EXP-06 Implementation of Logistic Regression Model for Classifying Food Choices for Diabetic Patients
 
 ## AIM:
 To implement a logistic regression model to classify food items for diabetic patients based on nutrition information.
